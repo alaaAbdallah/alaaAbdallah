@@ -1,4 +1,5 @@
-# Hi, I'm Alaa Abdallah 👋
+<h1 align="center"> # Hi 👋 , I'm Alaa Abdallah </h1>
+
 
 <!--
 **alaaAbdallah/alaaAbdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
